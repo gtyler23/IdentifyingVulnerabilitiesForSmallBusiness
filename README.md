@@ -1,7 +1,7 @@
 <h1>Identifying Vulnerabilities For a Small Business</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of assessing the access controls used by a business to analyze their current process by identifying issues and making recommendations to improve their security practices after an incident involving an unauthorized deposit to an unknown bank account. First, I reviewed the access log of the incident. Next, I took notes to assist in identiying a possible threat actor, and identified issues with the access controls that were exploited. Lastly, I recommended mitigations that can improve the business' access controls and reduce the likelihood that the incident reoccurs.
 <br />
 
 
