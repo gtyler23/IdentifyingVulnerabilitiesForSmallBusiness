@@ -6,7 +6,7 @@ Project consists of assessing the access controls used by a business to analyze 
 
 
 <h2>Access Controls Worksheet:</h2>
-<img src="https://i.imgur.com/z7V5P8G.png" height="80%" width="80%" alt="Access Control Steps"/>
+<img src="https://i.imgur.com/EPyf2CJ.png" height="80%" width="80%" alt="Access Control Steps"/>
 
 <!--
  ```diff
